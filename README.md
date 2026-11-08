@@ -2,7 +2,7 @@
 
 Darmowe wdrożenie: GitHub Pages + Supabase Free.
 
-Repozytorium zawiera gotowy interfejs. Pełne źródła są w archiwum `zrodla-mrdb.zip`. Konta, rejestry i załączniki są przechowywane w chronionej bazie Supabase i nie trafiają do GitHuba.
+Repozytorium zawiera gotowy interfejs. Pełne źródła są w archiwum `zrodla-mrdb.zip`. 
 
 Adres panelu: https://dawidowski96588.github.io/mrdb-panel/
 
