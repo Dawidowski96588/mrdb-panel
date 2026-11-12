@@ -11,4 +11,4 @@ self.addEventListener('fetch',event=>{
  event.respondWith(fetch(event.request,{cache:'no-cache'}).catch(()=>caches.match(OFFLINE).then(page=>page||Response.error())));
 });
 
-// Build: index-BhRVxOy7.js
+// Build: index-CF6nqpOg.js
